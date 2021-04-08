@@ -82,6 +82,7 @@ namespace Lab5._3
             while (!done)
             {
                 Console.Clear();
+                Console.WriteLine("Welcome to Grant Chirpus' Used Car Emporium!!\n");
 
                 CarLot.ListCars();
 
